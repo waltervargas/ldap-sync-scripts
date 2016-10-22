@@ -1,0 +1,4 @@
+ * EL DN no va a ser igual. 
+ * Debo buscar en OpenLDAP por uid
+ * El campo sAMAccount de AD es igual al campo uid de OpenLDAP. 
+ * Que diferencia hay entre buscar primero el highestCommittedUSN y despues buscar los cambios recientes, o viceversa.

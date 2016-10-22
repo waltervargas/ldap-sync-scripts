@@ -1,0 +1,4 @@
+dn: ou=groups,dc=nodomain
+ou: groups
+description: Grupos
+objectClass: organizationalUnit
